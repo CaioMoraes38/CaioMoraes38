@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/caiomoraes38" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat"><br>
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioMoraes38&layout=compact&langs_count=8&card_width=450&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" /></a>
 
 ### Tecnologias
