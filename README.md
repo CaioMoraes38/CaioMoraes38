@@ -16,7 +16,7 @@ Contribuo em backend e frontend. No backend, uso Nestjs para APIs objetivas, seg
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CaioMoraes38&theme=dark&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=CaioMoraes38&theme=dark"/>
 </div>
 
 ## 🛠️ Minha Stack
