@@ -8,7 +8,6 @@ Contribuo em backend e frontend. No backend, uso Nestjs para APIs objetivas, seg
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CaioMoraes38&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaioMoraes38&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
