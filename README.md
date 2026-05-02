@@ -25,8 +25,10 @@ Sou **Caio de Moraes Santos**, desenvolvedor apaixonado por criar soluções web
 </div>
 
 **Linguagens:**  
+<div align="center" style="display: flex; flex-direction: row;">
 <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
 <img alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#">
+</div>
 
 ## 🌐 Entre em Contato
 
@@ -41,8 +43,5 @@ Sou **Caio de Moraes Santos**, desenvolvedor apaixonado por criar soluções web
 
 ---
 
-<div align="center">
-  <i>⭐ Se gostou do meu perfil, considere dar uma estrela nos meus repositórios!</i>
-</div>
   
  
