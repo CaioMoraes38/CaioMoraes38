@@ -19,7 +19,7 @@ Não é uma lista de tudo que já usei, são as que mais pesam no que entrego ho
 Passe o mouse por cima para ver o nome das tecnologias
 
 ### Frontend
-<div align="center" style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
+<div align="center" style="display: flex; flex-direction: column; gap: 10px; align-items: center; justify-content: center; margin: 0 auto;">
 <img alt="HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
 <img alt="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
 <img alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript">
@@ -31,7 +31,7 @@ Passe o mouse por cima para ver o nome das tecnologias
 </div>
 
 ### Backend
-<div align="center" style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
+<div align="center" style="display: flex; flex-direction: column; gap: 10px; align-items: center; justify-content: center; margin: 0 auto;">
 <img alt="TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript">
 <img alt="Node.js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js">
 <img alt="Express" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express">
@@ -43,7 +43,7 @@ Passe o mouse por cima para ver o nome das tecnologias
 </div>
 
 ### DevOps
-<div align="center" style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
+<div align="center" style="display: flex; flex-direction: column; gap: 10px; align-items: center; justify-content: center; margin: 0 auto;">
 <img alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
 <img alt="GitHub" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub">
 <img alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">
