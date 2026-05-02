@@ -8,7 +8,15 @@ Contribuo em backend e frontend. No backend, uso Nestjs para APIs objetivas, seg
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="300" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioMoraes38&theme=dark&layout=compact" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioMoraes38&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMoraes38&layout=compact&langs_count=8&theme=dark"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CaioMoraes38&theme=dark&hide_border=false"/>
 </div>
 
 ## 🛠️ Minha Stack
