@@ -8,7 +8,7 @@ Contribuo em backend e frontend. No backend, uso Nestjs para APIs objetivas, seg
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="300" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMoraes38&layout=compact&langs_count=8&theme=dark" />
+  <img height="300" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioMoraes38&theme=dark&layout=compact" />
 </div>
 
 ## 🛠️ Minha Stack
@@ -17,14 +17,14 @@ Não é uma lista de tudo que já usei, são as que mais pesam no que entrego ho
 
 Passe o mouse por cima para ver o nome das tecnologias
 ### Linguagens
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" title="C#" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python" />
 </p>
 
 ### Frontend
-<p align="right">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" title="HTML5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" title="CSS3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
@@ -35,7 +35,7 @@ Passe o mouse por cima para ver o nome das tecnologias
 </p>
 
 ### Backend
-<p align="right">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" title="Express" />
@@ -46,7 +46,7 @@ Passe o mouse por cima para ver o nome das tecnologias
 </p>
 
 ### DevOps
-<p align="right">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" title="GitHub" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker" />
