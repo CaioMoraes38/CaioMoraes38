@@ -24,7 +24,7 @@ Passe o mouse por cima para ver o nome das tecnologias
 </p>
 
 ### Frontend
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" title="HTML5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" title="CSS3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
@@ -35,7 +35,7 @@ Passe o mouse por cima para ver o nome das tecnologias
 </p>
 
 ### Backend
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" title="Express" />
@@ -46,7 +46,7 @@ Passe o mouse por cima para ver o nome das tecnologias
 </p>
 
 ### DevOps
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" title="GitHub" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker" />
@@ -54,6 +54,7 @@ Passe o mouse por cima para ver o nome das tecnologias
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="50" title="Vercel" />
 </p>
 
+## 🌐 Entre em Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/caiomoraes38" target="_blank">
