@@ -14,9 +14,6 @@ Contribuo em backend e frontend. No backend, uso Nestjs para APIs objetivas, seg
 
 ## 🛠️ Minha Stack
 
-Não é uma lista de tudo que já usei, são as que mais pesam no que entrego hoje. Fora delas entram outras conforme o problema e sigo aprendendo o que fizer sentido em cada projeto.
-
-Passe o mouse por cima para ver o nome das tecnologias
 ### Linguagens
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />
