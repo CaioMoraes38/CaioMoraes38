@@ -1,67 +1,53 @@
-# Olá! Bem-vindo ao meu perfil 👋
-
-Sou **Caio de Moraes Santos**, desenvolvedor apaixonado por criar soluções web modernas e escaláveis. Tenho experiência em desenvolvimento full-stack, com foco em JavaScript/TypeScript e tecnologias front-end.
-
-Contribuo em backend e frontend. No backend, uso Nestjs para APIs objetivas, seguras e previsíveis. No frontend, cuido da experiência do usuário (UX e UI) com telas claras e funcionais, hoje principalmente com React/Next.js.
-
-
-## 📊 Estatísticas
-
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CaioMoraes38&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaioMoraes38&layout=compact&langs_count=8&theme=dark"/>
+  <h1>Olá, eu sou o Caio de Moraes Santos 👋</h1>
+  <p>
+    Desenvolvedor <strong>Full Stack</strong> com foco em APIs, aplicações web modernas e boas experiências de usuário.
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/caiomoraes38/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/CaioMoraes38">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 </div>
 
-## 🛠️ Minha Stack
+Sobre mim
 
-### Linguagens
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" title="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />
+Sou estudante de Engenharia da Computação no IFSP – Campus Birigui, com todas as disciplinas concluídas e foco atual no TCC. Atuo no desenvolvimento de soluções web de ponta a ponta, transformando necessidades reais em interfaces claras e APIs seguras, organizadas e escaláveis.
 
-</p>
+🔭 Atualmente desenvolvendo projetos com NestJS, React/Next.js e PostgreSQL.
 
-### Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" title="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" title="Tailwind CSS" />
-</p>
+🌱 Aprofundando conhecimentos em arquitetura de software, Docker, mensageria e inteligência artificial aplicada.
 
-### Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" title="Express" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="50" title="NestJS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="50" title="GraphQL" />
-</p>
+🧠 Experiência prática em projetos acadêmicos, empresa júnior e desenvolvimento freelancer.
 
-### DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" title="GitHub" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="50" title="Vercel" />
-</p>
+📫 Vamos conversar: LinkedIn.
 
-## 🌐 Entre em Contato
+Tecnologias
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/caiomoraes38" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/CaioMoraes38" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,java,html,css,react,nextjs,angular,tailwind,nodejs,nestjs,express,postgres,mongodb,prisma,docker,git,github,linux&perline=11" alt="Tecnologias: TypeScript, JavaScript, Python, C++, C#, Java, HTML, CSS, React, Next.js, Angular, Tailwind, Node.js, NestJS, Express, PostgreSQL, MongoDB, Prisma, Docker, Git, GitHub e Linux" />
   </a>
 </div>
 
----
+<div align="center">
+  <sub>TypeScript · JavaScript · Python · C++ · C# · Java · React · Next.js · Angular · Node.js · NestJS · PostgreSQL · MongoDB · Docker</sub>
+</div>
 
+Estatísticas
 
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioMoraes38&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Caio Moraes Santos" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMoraes38&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true" alt="Linguagens mais usadas por Caio Moraes Santos" />
+</div>
+
+Áreas de interesse
+
+Back-end · APIs REST · Arquitetura de Software · Bancos de Dados · DevOps · Inteligência Artificial · Automação
+
+<div align="center">
+  <i>Aberto a oportunidades e a projetos que gerem impacto real.</i>
+</div>
