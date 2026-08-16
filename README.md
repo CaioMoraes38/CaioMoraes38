@@ -13,40 +13,34 @@
   </p>
 </div>
 
-Sobre mim
-
+### Sobre mim
 Sou estudante de Engenharia da Computação no IFSP – Campus Birigui, com todas as disciplinas concluídas e foco atual no TCC. Atuo no desenvolvimento de soluções web de ponta a ponta, transformando necessidades reais em interfaces claras e APIs seguras, organizadas e escaláveis.
 
-🔭 Atualmente desenvolvendo projetos com NestJS, React/Next.js e PostgreSQL.
-
-🌱 Aprofundando conhecimentos em arquitetura de software, Docker, mensageria e inteligência artificial aplicada.
-
-🧠 Experiência prática em projetos acadêmicos, empresa júnior e desenvolvimento freelancer.
-
+🔭 Atualmente desenvolvendo projetos com NestJS, React/Next.js e PostgreSQL.<br>
+🌱 Aprofundando conhecimentos em arquitetura de software, Docker, mensageria e inteligência artificial aplicada.<br>
+🧠 Experiência prática em projetos acadêmicos, empresa júnior e desenvolvimento freelancer.<br>
 📫 Vamos conversar: LinkedIn.
 
-Tecnologias
-
+### Tecnologias
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,java,html,css,react,nextjs,angular,tailwind,nodejs,nestjs,express,postgres,mongodb,prisma,docker,git,github,linux&perline=11" alt="Tecnologias: TypeScript, JavaScript, Python, C++, C#, Java, HTML, CSS, React, Next.js, Angular, Tailwind, Node.js, NestJS, Express, PostgreSQL, MongoDB, Prisma, Docker, Git, GitHub e Linux" />
   </a>
 </div>
-
 <div align="center">
   <sub>TypeScript · JavaScript · Python · C++ · C# · Java · React · Next.js · Angular · Node.js · NestJS · PostgreSQL · MongoDB · Docker</sub>
 </div>
 
-Estatísticas
-
+### Estatísticas
 <div align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CaioMoraes38&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Caio Moraes Santos" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaioMoraes38&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true" alt="Linguagens mais usadas por Caio Moraes Santos" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioMoraes38&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Caio Moraes Santos" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMoraes38&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true" alt="Linguagens mais usadas por Caio Moraes Santos" />
 </div>
 
-Áreas de interesse
-
+### Áreas de interesse
 Back-end · APIs REST · Arquitetura de Software · Bancos de Dados · DevOps · Inteligência Artificial · Automação
+
+<br>
 
 <div align="center">
   <i>Aberto a oportunidades e a projetos que gerem impacto real.</i>
