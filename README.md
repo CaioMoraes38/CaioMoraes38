@@ -7,9 +7,7 @@
     <a href="https://www.linkedin.com/in/caiomoraes38/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/CaioMoraes38">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
+  
   </p>
 </div>
 
@@ -33,7 +31,8 @@ Sou estudante de Engenharia da Computação no IFSP – Campus Birigui, com toda
 
 ### Estatísticas
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioMoraes38&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Caio Moraes Santos" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=octocat&theme=radical
+?username=CaioMoraes38&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Caio Moraes Santos" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMoraes38&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true" alt="Linguagens mais usadas por Caio Moraes Santos" />
 </div>
 
