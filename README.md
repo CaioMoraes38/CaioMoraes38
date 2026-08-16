@@ -40,8 +40,8 @@ Tecnologias
 Estatísticas
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CaioMoraes38&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Caio Moraes Santos" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMoraes38&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true" alt="Linguagens mais usadas por Caio Moraes Santos" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CaioMoraes38&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Caio Moraes Santos" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaioMoraes38&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true" alt="Linguagens mais usadas por Caio Moraes Santos" />
 </div>
 
 Áreas de interesse
