@@ -30,7 +30,9 @@ Sou estudante de Engenharia da Computação no IFSP – Campus Birigui, com toda
 </div>
 
 ### Estatísticas
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=CaioMoraes38&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=CaioMoraes38&show_icons=true&include_all_commits=true&theme=ambient_gradient)
+<div align="center">
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=CaioMoraes38&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=CaioMoraes38&show_icons=true&include_all_commits=true&theme=ambient_gradient)
+</div>
 
 ### Áreas de interesse
 Back-end · APIs REST · Arquitetura de Software · Bancos de Dados · DevOps · Inteligência Artificial · Automação
