@@ -59,12 +59,12 @@ Sou estudante de Engenharia da Computação no IFSP – Campus Birigui, com toda
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=CaioMoraes38&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaioMoraes38&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=CaioMoraes38&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaioMoraes38&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioMoraes38&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioMoraes38&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
