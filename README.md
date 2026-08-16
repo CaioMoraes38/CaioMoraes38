@@ -28,13 +28,17 @@ Sou estudante de Engenharia da Computação no IFSP – Campus Birigui, com toda
 
 ### 🚀 Projetos em destaque
 
+<div align="center">
+
 | Projeto | Descrição |
-|---|---|
+|:---:|:---|
 | **SmartMundo API** | API REST |
 | **StreamBox** | Plataforma de streaming |
 | **Lumen** | Projeto web |
 | **Horta Urbana** | Projeto web |
 | **Chess** | Motor de xadrez em TypeScript, transformado em API REST com Express |
+
+</div>
 
 ---
 
@@ -55,8 +59,8 @@ Sou estudante de Engenharia da Computação no IFSP – Campus Birigui, com toda
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CaioMoraes38&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMoraes38&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=CaioMoraes38&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaioMoraes38&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
