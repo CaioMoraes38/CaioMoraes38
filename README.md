@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Caio de Moraes Santos 👋
+# Olá, eu sou o Caio de Moraes Santos 
 
 Desenvolvedor **Full Stack** com foco em APIs, aplicações web modernas e boas experiências de usuário.
 
@@ -15,10 +15,10 @@ Desenvolvedor **Full Stack** com foco em APIs, aplicações web modernas e boas 
 
 Sou estudante de Engenharia da Computação no IFSP – Campus Birigui, com todas as disciplinas concluídas e foco atual no TCC. Atuo no desenvolvimento de soluções web de ponta a ponta, transformando necessidades reais em interfaces claras e APIs seguras, organizadas e escaláveis.
 
-- 🔭 Atualmente desenvolvendo projetos com **NestJS**, **React/Next.js** e **PostgreSQL**
-- 🌱 Aprofundando conhecimentos em arquitetura de software, Docker, mensageria e inteligência artificial aplicada
-- 🧠 Experiência prática em projetos acadêmicos, empresa júnior e desenvolvimento freelancer
-- 📫 Vamos conversar: [LinkedIn](https://www.linkedin.com/in/caiomoraes38/)
+-  Atualmente desenvolvendo projetos com **NestJS**, **React/Next.js** e **PostgreSQL**
+-  Aprofundando conhecimentos em arquitetura de software, Docker, mensageria e inteligência artificial aplicada
+-  Experiência prática em projetos acadêmicos, empresa júnior e desenvolvimento freelancer
+-  Vamos conversar: [LinkedIn](https://www.linkedin.com/in/caiomoraes38/)
 
 ---
 
