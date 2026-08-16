@@ -67,8 +67,6 @@ Sou estudante de Engenharia da Computação no IFSP – Campus Birigui, com toda
 
 ### 🎯 Áreas de interesse
 
-Back-end · APIs REST · Arquitetura de Software · Bancos de Dados · DevOps · Inteligência Artificial · Automação
+Back-end · Front-End · APIs REST · Arquitetura de Software · Bancos de Dados · DevOps · Inteligência Artificial · Automação
 
-<div align="center">
-  <i>Aberto a oportunidades e a projetos que gerem impacto real.</i>
-</div>
+
